@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=false&theme=transparent" alt="george0st" />
+
+<!--
+
+<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=true&theme=transparent" alt="george0st" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=default&show=prs_merged,prs_merged_percentage&include_all_commits=false&theme=transparent" alt="george0st" />
+<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=default&show=prs_merged,prs_merged_percentage&include_all_commits=true&theme=transparent" alt="george0st" />
+
+-->
