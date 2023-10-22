@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img height="200px" src="./images/k4.png"/>
 </p>
 
-- 🔭 I’m working on architecture and the development, analysis are my hobbies
+- 🔭 I’m working on architecture and the development and analysis are my hobbies
 - ⚡ [Fun facts](https://www.linkedin.com/search/results/content/?keywords=%23gosh2inout): 
   - "If you want to show the reliability and quality ... show standard outputs, the test code coverage and vulnerability tests."
   - "Doing IT without IT is a beautiful idea ... fully functional only in the heads of an idealist and feasible in limited areas."
