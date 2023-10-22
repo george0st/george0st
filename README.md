@@ -7,16 +7,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="george0st" />
+  <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="george0st" />
+  &nbsp;&nbsp;
   <img height="200px" src="./images/k4.png"/>
 </p>
 
-- 🔭 I’m working on architecture and the development and analysis are my hobbies
+- 🔭 I’m working on architecture and the development, analysis are my hobbies
 - ⚡ [Fun facts](https://www.linkedin.com/search/results/content/?keywords=%23gosh2inout): 
   - "If you want to show the reliability and quality ... show standard outputs, the test code coverage and vulnerability tests."
   - "Doing IT without IT is a beautiful idea ... fully functional only in the heads of an idealist and feasible in limited areas."
