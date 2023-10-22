@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/20266647/jist" target="_blank">
     <img src="./images/stackoverflow_sm.png" alt="StackOverflow"/>
   </a>
-  <br>&nbsp;<br>&nbsp;<br>
+  <br><br>
 </div>
 
 <!--
