@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=false&theme=transparent" alt="george0st" />
+  <img height="240px" src="./images/k4.png"/>
+</p>
+
+<!--
 <table style="border: 0px solid #000000; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
     <tr style="border: 0px solid #000000; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
         <td style="border: 0px solid #000000; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
@@ -26,7 +32,7 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
-
+-->
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=true&theme=transparent" alt="george0st" />
 
