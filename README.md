@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
-    <tr style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
-        <td style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+<table style="border: 0px solid #000000; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+    <tr style="border: 0px solid #000000; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+        <td style="border: 0px solid #000000; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
             <p align="left"> 
             <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=false&theme=transparent" alt="george0st" />
         </td>
-        <td style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
-            <img height="240px" src="./images/mouse.png"/>
+        <td style="border: 0px solid #000000; border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+            <img height="240px" src="./images/k4.png"/>
         </td>
     </tr>
 </table>
