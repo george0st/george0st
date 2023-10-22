@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Contact</h2>
-  <hr>
   <a href="https://www.linkedin.com/in/jiristeuer/" target="_blank">
     <img src="./images/linkedin_sm.png" alt="LinkedIn"/>
   </a>
