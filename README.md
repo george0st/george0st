@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Contact</h2>
-  <a href="https://www.linkedin.com/in/jiristeuer/" target="_blank">
+  <a href="https://www.linkedin.com/in/jiristeuer/" target="_blank" rel="noopener noreferrer">
     <img src="./images/linkedin_sm.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/20266647/jist" target="_blank">
+  <a href="https://stackoverflow.com/users/20266647/jist" target="_blank" rel="noopener noreferrer">
     <img src="./images/stackoverflow_sm.png" alt="StackOverflow"/>
   </a>
   <br><br>
