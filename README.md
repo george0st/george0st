@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ [Fun facts](https://www.linkedin.com/search/results/content/?keywords=%23gosh2inout): 
   - "If you want to show the reliability and quality ... show standard outputs, the test code coverage and vulnerability tests."
   - "Doing IT without IT is a beautiful idea ... fully functional only in the heads of an idealist and feasible in limited areas."
-  - "Using the one universal hammer for everything is not always the best idea ... try to think about the differences and don't be lazy."
+  - "Using the one universal hammer for everything is not always the best ... try to think about the differences and don't be lazy."
   - "How can you accelerate your innovation, simply? Reduce the quality, minimize effort in non-innovative areas such as tests, documentation, operations, security, etc."
   - "Added value does not end in perfectionism, but in the ability to connect things."
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
