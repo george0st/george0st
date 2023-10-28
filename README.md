@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />
 <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=false&theme=transparent" alt="george0st" />
+<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />
 <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=true&theme=transparent" alt="george0st" />
 -->
 
