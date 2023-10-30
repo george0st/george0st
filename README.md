@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="george0st" />
   &nbsp;&nbsp;
-  <img height="200px" src="./images/k4.png"/>
+  <img height="200px" src="./images/k4_sm.png"/>
 </p>
 
 <!--
