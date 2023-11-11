@@ -28,7 +28,9 @@ Here are some ideas to get you started:
   - "How can you accelerate your innovation, simply? Reduce the quality, minimize effort in non-innovative areas such as tests, documentation, operations, security, etc."
   - "Added value does not end in perfectionism, but in the ability to connect things."
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
-  - etc. 
+  - etc.
+
+![Profile views counter](https://komarev.com/ghpvc/?username=george0st-git&&style=flat-square)
 
 <div align="center">
   <h2>Contact</h2>
