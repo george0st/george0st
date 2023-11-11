@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
   - etc.
 
-![Profile views counter](https://komarev.com/ghpvc/?username=george0st-git&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=george0st-git&style=flat-square)
 
 <div align="center">
   <h2>Contact</h2>
