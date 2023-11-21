@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="george0st" />&nbsp;&nbsp;<img height="200px" src="./images/k4_sm.png"/>
 </p>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=george0st-git&style=flat-square)
+
 <!--
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=george0st&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=false&theme=transparent" alt="george0st" />
@@ -24,8 +26,6 @@
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
   - "Everyone makes mistakes, but only a donkey makes the same mistakes repeatedly, so feedback, a detailed look at the reasons for the failure and critical thinking are extremely important."
   - etc.
-
-![Profile views counter](https://komarev.com/ghpvc/?username=george0st-git&style=flat-square)
 
 <div align="center">
   <h2>Contact</h2>
