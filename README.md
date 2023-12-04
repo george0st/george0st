@@ -4,7 +4,7 @@
 -->
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />&nbsp;&nbsp;<img height="200px" src="./images/k4_sm.png"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=JiSt%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />&nbsp;&nbsp;<img height="200px" src="./images/k4_sm.png"/>
 </p>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=george0st-git&style=flat-square)
