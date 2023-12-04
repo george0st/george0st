@@ -4,16 +4,16 @@
 -->
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=JiSt%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />&nbsp;&nbsp;<img height="200px" src="./images/k4_sm.png"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />&nbsp;&nbsp;<img height="200px" src="./images/k4_sm.png"/>
 </p>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=george0st-git&style=flat-square)
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=true&theme=transparent" alt="george0st" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=george0st&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=false&theme=transparent" alt="george0st" />
-<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />
-<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=true&theme=transparent" alt="george0st" />
+<img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="george0st" />
 -->
 
 - 🔭 I’m working on architecture and the development, analysis are my hobbies
