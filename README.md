@@ -26,8 +26,6 @@
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
   - "Everyone makes mistakes, but only a donkey makes the same mistakes repeatedly, so feedback, a detailed look at the reasons for the failure and critical thinking are extremely important."
   - etc.
- 
-Note: Request ID=17022024/13716031
 
 <div align="center">
   <h2>Contact</h2>
