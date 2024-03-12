@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="george0st" />
 -->
 
-- 🔭 I’m working on architecture and the development, analysis are my hobbies. Happy to connect in [LinkedIn](https://www.linkedin.com/in/jiristeuer/)
+- 🔭 I’m working on architecture and the development, analysis are my hobbies (happy to connect in [LinkedIn](https://www.linkedin.com/in/jiristeuer/))
 - ⚡ [Real facts](https://www.linkedin.com/search/results/content/?keywords=%23gosh2inout&sortBy=%22date_posted%22):
   - "If you want to show the reliability and quality ... show standard outputs, the test code coverage and vulnerability tests."
   - "Doing IT without IT is a beautiful idea ... fully functional only in the heads of an idealist and feasible in limited areas."
