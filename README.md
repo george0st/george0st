@@ -1,8 +1,4 @@
 ### Hi there 👋
-<!--
-🌱 I’m currently learning ... 👯 I’m looking to collaborate on ...  🤔 I’m looking for help with ... 💬 Ask me about ... 😄 Pronouns: ...
--->
-
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=george0st&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="george0st" />&nbsp;&nbsp;<img height="200px" src="./images/k4_sm.png"/>
 </p>
