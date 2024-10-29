@@ -21,6 +21,7 @@
   - "Added value does not end in perfectionism, but in the ability to connect things."
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
   - "Everyone makes mistakes, but only a donkey makes the same mistakes repeatedly, so feedback, a detailed look at the reasons for the failure and critical thinking are extremely important."
+  - "You can run as fast as you want to the goal, but you won't reach the one ... Don't forget to first identify your maturity level and approve it with your stakeholders ..."
   - etc.
 
 <div align="center">
