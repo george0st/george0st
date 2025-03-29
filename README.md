@@ -19,6 +19,7 @@
   - "Doing IT without IT is a beautiful idea ... fully functional only in the heads of an idealist and feasible in limited areas."
   - "Using the one universal hammer for everything is not always the best ... try to think about the differences and don't be lazy."
   - "How can you accelerate your innovation, simply? Reduce the quality, minimize effort in non-innovative areas such as tests, documentation, operations, security, etc."
+  - "The truth must give way to a good story ... it is standard sales rules which can impacted all. Trust but verify, this applies 100% in IT."
   - "Added value does not end in perfectionism, but in the ability to connect things."
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
   - "Everyone makes mistakes, but only a donkey makes the same mistakes repeatedly, so feedback, a detailed look at the reasons for the failure and critical thinking are extremely important."
