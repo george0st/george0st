@@ -27,10 +27,10 @@
   - "Added value does not end in perfectionism, but in the ability to connect things."
   - "The quality of the documentation will always be most appreciated by those who lack the documentation completely."
   - "Everyone makes mistakes, but only a donkey makes the same mistakes repeatedly, so feedback, a detailed look at the reasons for the failure and critical thinking are extremely important."
-  - "You can run as fast as you want to the goal, but you won't reach the one ... consider your position on the map and relevant direction => Don't forget identify your maturity level ..."
+  - "You can run as fast as you want to the goal, but you won't reach the one ... consider your position on the map and relevant direction."
   - "if you hold ownership and your supplier does not deliver at the requested quality ... act like an owner, insist on quality or compensation... you pay and define the rules, show your strength (not mercy)"
   - "Everyone can show ego and power from a work position ... but keeping emotions in check, keeping a cool head, and using emotions only in critical moments is an art that one learns throughout whole life."
-  - etc.
+  - "Our solution with Java 11 is 100% secure! You can see many certificates/compliance reports and is used by large/famous companies in the same industry ..." Oki challenge accepted 💀 (I am not an idiot)
 
 <div align="center">
   <h2>Contact</h2>
