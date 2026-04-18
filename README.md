@@ -29,9 +29,9 @@
   - "Everyone makes mistakes, but only a donkey makes the same mistakes repeatedly, so feedback, a detailed look at the reasons for the failure and critical thinking are extremely important." 🤔
   - "You can run as fast as you want to the goal, but you won't reach the one ... consider your position on the map and relevant direction." 🧭
   - "If you hold ownership and your supplier does not deliver at the requested quality ... act like an owner, insist on quality or compensation ... you pay and define the rules, show your strength (not mercy)." 💣
-  - "Everyone can show ego and power from a work position ... but keeping emotions in check, keeping a cool head, and using emotions only in critical moments is an art that one learns throughout whole life." ☯
+  - "Everyone can show ego and power from a work position ... but keeping emotions in check, keeping a cool head, and using emotions only in critical moments is an art that one learns throughout whole life." 🙏
   - "Our solution with Java 8/11 is 100% secure! You can see many certificates/compliance reports and is used by large/famous companies in the same industry ..." Oki challenge accepted. 💀
-  - "Building trust is a long-term discipline, don’t destroy it" ... avoid fake information ... "Your boss wants you to address ... with our company." ✝
+  - "Building trust is a long-term discipline, don’t destroy it" ... avoid fake information ... "Your boss wants you to address ... with our company." ❌
   - "If you can't explain something, you probably need to invest more time in simplifying the topic for the listener." ⌛
   
 <div align="center">
