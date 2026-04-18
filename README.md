@@ -20,7 +20,7 @@
 - ⚡ [Real facts](https://www.linkedin.com/search/results/content/?keywords=%23gosh2inout&sortBy=%22date_posted%22):
   - "Almost everything is possible, it's just a matter of time, resources and quality", but the reality is about limited sources, it means "some things don't make sense to do because it takes a long time, a lot of resources, etc." 📐
   - "If you want to show the reliability and quality ... show standard outputs, the test code coverage and vulnerability tests." 💯
-  - "Doing IT without IT is a beautiful idea ... fully functional only in the heads of an idealist and feasible in limited areas." 🤖
+  - "Doing IT without IT is a beautiful idea ... fully functional only in the heads of an idealist and feasible in limited areas." 💭
   - "Using the one universal hammer for everything is not always the best ... try to think about the differences and don't be lazy." 🔨
   - "How can you accelerate your innovation, simply? Reduce the quality, minimize effort in non-innovative areas such as tests, documentation, operations, security, etc." 🎯
   - "The truth must give way to a good story ... it is standard sales rules which can impacted all. Trust but verify, this applies 100% in IT." ⁉️
